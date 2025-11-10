@@ -27,7 +27,7 @@
                 label="Imię"
                 placeholder="Wpisz swoje imię i Nazwisko"
                 size="lg"
-                value={imie}
+                value={imie i nazwisko}
                 onChange={(e) => setImie(e.target.value)}
                 isRequired
               />
